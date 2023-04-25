@@ -1,3 +1,4 @@
-a = 5
+a = 20
 b = 20
-print (a + b)
+c = 30
+print (a + b + c)
